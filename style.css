@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow-x: hidden;
+}
+#one , #two , #three , #fourth{
+    height: 100vh;
+    overflow-x: hidden;
+    
+}
+#one{
+    background-image: radial-gradient(circle, #0087a3, #007f9b, #007693, #006e8b, #006683, #005f7c, #005975, #00526e, #004b66, #00435f, #003c57, #00354f);
+    color: white;
+}
+#two{
+    height: max-content;
+    background-color: #418577 ;
+}
+#three{
+    background-image: radial-gradient(circle, #3f8a8c, #377d7d, #2f716f, #276461, #1f5854, #1f5652, #20544f, #20524d, #285a55, #30615d, #376966, #3f716e);
+    height: max-content;
+}
+#fourth{
+    background-image: radial-gradient(circle, #0d6758, #005d5f, #14525e, #264757, #303d4b, #303c4a, #2f3b48, #2f3a47, #254351, #164c56, #075455, #145c4d);
+    height: max-content;
+    color: white;
+}
+.cardtext{
+    width: 90%;
+    text-align: justify;
+    word-spacing: 10%;
+}
+.cardtext>h1{
+    font-size: xx-large;
+    text-transform: capitalize;
+}
+.cardtext>h1::first-letter{
+    color: #1de1ff;
+    font-size: 10vh;
+}
+#cardtext::before{
+    content: "welcome";
+    font-family:sans-serif;
+    position: absolute;
+    top: -2vh;
+    left: 1vh;
+    background-color: #0087a3;
+    padding: 0 1vh;
+    border:thin solid #5dc0de;
+    text-transform: capitalize;
+}
+.cardtext>p>a{
+    text-decoration: none;
+    color:white;
+    border-bottom: thin solid #0087a3;
+    padding: 2px;
+}
+.cardtext>p>a:hover{
+    text-decoration: none;
+    color:white;
+    border-bottom: thin solid #5dc0de;
+    /* box-shadow: 3px 3px 3px #0087a3 ; */
+    
+}
+#myimg{
+    width: 90%;
+    height: 100%;
+    box-shadow: 7px 7px 5px #0087a3;
+}
+#my-img-2{
+
+    box-shadow: 7px 8px 6px #005975;
+}
+iframe{
+    height: 80vh;
+    width: 100%;
+}
+
+#about-card-text>h1{
+    color:black;
+    text-transform: uppercase;
+    opacity: 0.7;
+    font-family: 'Inter', sans-serif;
+}
+#about-card-text>h1::first-letter{
+    color: #1de1ff;
+    font-size: 10vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#about-card-text>p{
+    color: black;
+    opacity: 0.8;
+    word-spacing: 0.5px;
+    padding-top: 1vh;
+}
+#about-card-text>p>b{
+    opacity: 0.8;
+    font-size: large;
+    background: #005975;
+    color: white;
+    padding: 1px 2vh;
+    border-radius: 2px;
+}
+#about-card-text>p>a{
+    text-decoration: none;
+    color: inherit;
+    border-bottom: thin solid #5dc0de;
+}
+#about-card-text>p>a:hover{
+    border-color: #1de1ff;
+    opacity: 0.8;
+}
+#about-card-text>p:nth-child(3){
+    color: black;
+    opacity: 0.9;
+}
+#aboutme-card{
+   width: 100%;
+   height: 80vh;
+   overflow-y: hidden;
+   overflow-x: hidden;
+}
+#stats>div>h1{
+    color: white;
+    font-weight: bolder;
+    text-shadow: 1px 1vh 1vh black;
+}
+#stats>div>small{
+    font-weight: bolder;
+    font-size: 2vh;
+    opacity: 0.9;
+    word-wrap: break-word;    
+    font-family: 'Inter', sans-serif;
+}
+.fa{
+    font-size: 5vh;
+    opacity: 0.8;
+    padding: 1vh;
+    cursor: pointer;
+    color: initial;
+}
+.fa:hover{
+    animation-name: icons;
+    animation-duration: 5s;
+    animation-delay: 100ms;
+
+}
+@keyframes icons {
+    0%{
+        color: white;
+        transform: scale(1);
+    }
+    10%{
+        color: black;
+        transform: scale(1.1);
+
+    }
+}
+#three>h1 , #fourth>h1 ,#contact>h1{
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+}
+#three>h1::first-letter , #fourth>h1::first-letter ,#contact>h1::first-letter{
+    font-size: 7vh;
+    color: #1de1ff;
+}
+#name{
+    font-family: 'Inter', sans-serif;
+    text-decoration: none;
+}
+#name>a{
+    color: black;
+    text-decoration: none;
+    font-style: normal;
+}
+::-webkit-scrollbar{
+    width: 1vh;
+    background-color:#5dc0de;
+
+}
+::-webkit-scrollbar-thumb{
+    background-color: whitesmoke;
+    border-radius: 3vh;
+}
+::-webkit-scrollbar:hover{
+    width: 2vh;
+    background-color:#5dc0de;
+}
+@media (max-width:425px) {
+    #one{
+        height: 100%;
+    }
+    body{
+        overflow-x: hidden;
+    }
+}
+
+#loader{
+    background-image: url(loading-cemical.gif);
+    background-position: center;
+    background-color: #000;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
+
