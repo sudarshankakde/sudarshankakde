@@ -1,13 +1,10 @@
-### Hi there 👋
-
-<!--
-**sudarshankakde/sudarshankakde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Capstone projects
-- 🌱 I’m currently learning Django,React js
-- 👯 I’m looking to collaborate on front-end devlopment
-- 🤔 I’m looking for help with dackend devlopment
-- 📫 How to reach me: @sudarshan_kakde_ (instagram)
--->
+## Hi there 👋
+__I am Sudarshan Kakde , a 19 year old Collage Student, programmer, and a Web Developer living in Aurangabad, India. I am a Information Technology Student, currently Studying at GOVERMENT POLY AMBAD .__
+--
+WEBSITES:-
+> __Portfolio__ 
+>>https://sudarshankakde.github.io/sudarshankakde/
+>---
+>>https://sudarshankakde.github.io/sudarshan-kakde/
+>---
+>>https://sudarshankakde.github.io/youva/
