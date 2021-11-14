@@ -1,14 +1,20 @@
-## Hi there 👋
-__I am Sudarshan Kakde , a 19 year old Collage Student, programmer, and a Web Developer living in Aurangabad, India. I am a Information Technology Student, currently Studying at GOVERMENT POLY AMBAD .__
+## Hi there 👋 My Self Sudarshan Kakde,
+___<br/>I am  19 year old Collage Student,A programmer 💻, and A Web Developer 🕸️ <br/>living at [Aurangabad, India](https://goo.gl/maps/jLJ1xxYJaWZdcwi38). 
+I am a Information Technology Student,<br/> currently Studying at [GOVERMENT POLY AMBAD](https://gpambad.ac.in/).___
 --
 WEBSITES:-
-> __Portfolios__ 
->>https://sudarshankakde.github.io/sudarshankakde/
+- __Portfolios 🧑__ 
+
+>```Recomended for mobile User's or small disply screen```
+>>https://sudarshankakde.github.io/sudarshankakde/  
 >---
->>https://sudarshankakde.github.io/sudarshan-kakde/
+>```Recomended for pc User's or large disply screen```
+>>https://sudarshankakde.github.io/sudarshan-kakde/  
 >---
->>https://sudarshankakde.github.io/youva/
+>```Website of Youva Devlopers```
+>>https://sudarshankakde.github.io/youva/   
 
 --------
->URL SHOTNER:-
+- __URL SHOTNER 🔗__
+>```Django and PyShothners used```
 >>https://sudarshankakde.pythonanywhere.com/
