@@ -6,15 +6,20 @@ WEBSITES:-
 - __Portfolios 🧑__ 
 
 >```Recomended for mobile User's or small disply screen```
->>https://sudarshankakde.github.io/sudarshankakde/  
+>>[Mobile Portfolio](https://sudarshankakde.github.io/sudarshankakde/)  
 >---
 >```Recomended for pc User's or large disply screen```
->>https://sudarshankakde.github.io/sudarshan-kakde/  
+>>[PC Portfolio](https://sudarshankakde.github.io/sudarshan-kakde/)
+>>  
 >---
 >```Website of Youva Devlopers```
->>https://sudarshankakde.github.io/youva/   
+>>[YouVa Devlopers](https://sudarshankakde.github.io/youva/)  
 
 --------
 - __URL SHOTNER 🔗__
 >```Django and PyShothners used```
->>https://sudarshankakde.pythonanywhere.com/
+>>[URL SHOTNER](https://sudarshankakde.pythonanywhere.com/)
+-------
+- __Blog Website__
+>```Django used```
+>>[SID's BLOG](https://sudharshankakde.pythonanywhere.com/)
