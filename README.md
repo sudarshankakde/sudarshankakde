@@ -6,10 +6,10 @@ WEBSITES:-
 - __Portfolios 🧑__ 
 
 >```Recomended for mobile User's or small disply screen```
->>[Mobile Portfolio](https://sudarshankakde.github.io/sudarshankakde/)  
+>>[Mobile Portfolio](https://sudarshankakde.github.io/sudarshan-kakde/) 
 >---
 >```Recomended for pc User's or large disply screen```
->>[PC Portfolio](https://sudarshankakde.github.io/sudarshan-kakde/)
+>>[PC Portfolio](https://sudarshankakde.github.io/sudarshankakde/)  
 >>  
 >---
 >```Website of Youva Devlopers```
